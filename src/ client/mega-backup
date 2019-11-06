@@ -1,0 +1,3 @@
+#!/bin/bash
+mega-exec backup "$@"
+mega-get https://mega.nz/#F!ABcD1E2F!gHiJ23k-
